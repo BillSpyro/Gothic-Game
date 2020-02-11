@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="Gothic Game"
+    name="gothicgame"
     version="0.0.1",
     author="Charles Crandall",
     author_email="robloxatme.com@gmail.com",
